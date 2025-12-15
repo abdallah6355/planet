@@ -442,7 +442,6 @@ export default function Upload() {
         <div className="card">
           <h1 className="card-title">رفع  الصورة</h1>
           <p className="card-subtitle">
-            اختر صورة لورقة النبات وسنقوم بتحليلها لاكتشاف أي أمراض محتملة
           </p>
 
           {error && (
